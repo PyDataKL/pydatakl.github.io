@@ -11,5 +11,4 @@ params:
         - name: Twitter
           url: https://twitter.com/pydatakl
         - name: GitHub
-            url: https://github.com/PyDataKL
-            
+          url: https://github.com/PyDataKL
