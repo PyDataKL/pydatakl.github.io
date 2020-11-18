@@ -1,4 +1,4 @@
-baseURL = "http://pydatakl.github.io/"
+baseURL = "https://pydatakl.github.io/"
 languageCode = "en-us"
 title = "kualalumpur.py"
 theme = "papermod"
