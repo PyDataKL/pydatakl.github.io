@@ -23,6 +23,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
             submodules: true
+            fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod 
 
       - name: Hugo setup
         # You may pin to the exact commit or the version.
@@ -34,6 +35,9 @@ jobs:
           # Download (if necessary) and use Hugo extended version. Example: true
           extended: false # optional, default is false
           
+      - name: Update theme
+        run: git submodule update --init --recursive  
+                
       - name: Build
         run: hugo --minify
 
