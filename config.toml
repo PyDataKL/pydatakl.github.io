@@ -1,0 +1,4 @@
+baseURL = "http://pydatakl.github.io/"
+languageCode = "en-us"
+title = "kualalumpur.py"
+theme = "papermod"
