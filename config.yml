@@ -8,7 +8,7 @@ params:
         Content: Can be Info, links, about...
 
     socialIcons: # optional
-        - name: Twitter
+        - name: twitter
           url: https://twitter.com/pydatakl
-        - name: GitHub
+        - name: github
           url: https://github.com/PyDataKL
