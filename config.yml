@@ -4,11 +4,31 @@ title: "kualalumpur.py"
 theme: "papermod"
 params:
     homeInfoParams:
-        Title: PyData Kuala Lumpur
-        Content: Can be Info, links, about...
+        Title: 🇲🇾 PyData Kuala Lumpur
+        Content: |
+          PyData is an educational program of NumFOCUS, a 501(c)3 
+          non-profit organization in the United States. PyData 
+          provides a forum for the international community of users
+          and developers of data analysis tools to share ideas
+          and learn from each other. The global PyData network 
+          promotes discussion of best practices, new approaches, 
+          and emerging technologies for data management, processing, 
+          analytics, and visualization. PyData communities approach 
+          data science using many languages, including (but not 
+          limited to) Python, Julia, and R.
 
     socialIcons: # optional
         - name: twitter
           url: https://twitter.com/pydatakl
         - name: github
           url: https://github.com/PyDataKL
+        - name: facebook
+          url: https://www.facebook.com/PyDataKL
+        - name: youtube
+          url: https://www.youtube.com/channel/UC1UVRx7Ngc5QmFSu23s63Vg
+        - name: meetup
+          url: https://www.meetup.com/pydatakl/
+        - name: linkedin
+          url: https://www.linkedin.com/company/pydatakl/
+        # - name: discord
+        #   url: ""
