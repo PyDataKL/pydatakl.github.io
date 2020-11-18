@@ -1,0 +1,14 @@
+baseURL: "https://pydatakl.github.io/"
+languageCode: "en-us"
+title: "kualalumpur.py"
+theme: "papermod"
+params:
+    homeInfoParams:
+        Title: PyData Kuala Lumpur
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: Twitter
+          url: https://twitter.com/pydatakl
+        - name: GitHub
+            url: https://github.com/PyDataKL
