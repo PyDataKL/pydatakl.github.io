@@ -2,6 +2,8 @@
 title: "Speaker Spotlight: Dr. Vinod Ramachandran"
 date: 2020-11-18T11:48:14+08:00
 draft: false
+tags: 
+  - speaker-spotlight
 ---
 
 Following up from our webinar Data Science Journeys, we're putting together a 
