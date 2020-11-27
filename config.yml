@@ -4,6 +4,8 @@ title: "kualalumpur.py"
 theme: "papermod"
 disqusShortname: pydatakl
 params:
+    showShareButtons: true
+    comments: true
     homeInfoParams:
         Title: 🇲🇾 PyData Kuala Lumpur
         Content: |
