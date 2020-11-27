@@ -5,6 +5,7 @@ theme: "papermod"
 disqusShortname: pydatakl
 params:
     showShareButtons: true
+    ShowReadingTime: true
     comments: true
     homeInfoParams:
         Title: 🇲🇾 PyData Kuala Lumpur
