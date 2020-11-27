@@ -4,7 +4,7 @@ date: 2020-11-18T11:48:14+08:00
 draft: false
 ---
 
-Following up from webinar Data Science Journeys, we're putting together a 
+Following up from our webinar Data Science Journeys, we're putting together a 
 series of articles where we ask the panelists a series of questions that could
 not make it into the webinar. Enjoy! 
 
@@ -51,7 +51,7 @@ Excel, Python, R, SAS and Tableau.
 
 ### How to get into Data Science
 
-**When contemplating a potential career switch to data science, which of the two is more important: obtaining a formal qualification or practical experience such as side projects?"**
+**When contemplating a potential career switch to data science, which of the two is more important: a formal qualification or practical experience such as side projects?**
 
 Arguably, practical experience matters more, but hiring managers wouldn't be able to assess this unless you have some tangible output that serves as a performance indicator such as a published project. Formal qualifications are basically "outsourcing" the assurance that a candidate has been trained in specific tasks related to the field.
 
