@@ -32,4 +32,4 @@ params:
           url: https://www.linkedin.com/company/pydatakl/
         # - name: discord
         #   url: ""
-    disqus_shortname: pydatakl
+    disqusShortname: pydatakl
