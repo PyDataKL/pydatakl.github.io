@@ -33,8 +33,8 @@ params:
           url: https://www.meetup.com/pydatakl/
         - name: linkedin
           url: https://www.linkedin.com/company/pydatakl/
-        # - name: discord
-        #   url: ""
+        - name: discord
+          url: "https://discord.gg/mB4JfNt"
     assets:
       favicon: /assets/favicon.ico
       favicon16x16: /assets/favicon-16x16.png
