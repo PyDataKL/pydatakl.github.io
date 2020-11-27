@@ -4,6 +4,11 @@ date: 2020-11-18T11:48:14+08:00
 draft: false
 ---
 
+Following up from webinar Data Science Journeys, we're putting together a 
+series of articles where we ask the panelists a series of questions that could
+not make it into the webinar. Enjoy! 
+
+
 ## The speaker 
 
 {{<figure src="vinod.jpg#floatleft" width=200 title="Dr. Vinod Ramachandran">}}
