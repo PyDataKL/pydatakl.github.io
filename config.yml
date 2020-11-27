@@ -3,7 +3,6 @@ languageCode: "en-us"
 title: "kualalumpur.py"
 theme: "papermod"
 disqusShortname: pydatakl
-googleAnalytics: G-EFVRP3XXMD
 params:
     showShareButtons: true
     ShowReadingTime: true
