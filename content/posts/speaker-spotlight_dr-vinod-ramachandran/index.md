@@ -126,7 +126,7 @@ I believe that the role of a dedicated data scientist will fade in favour of cit
 
 There will always be a demand for good talent. Expect the bar to move up as companies have more candidates to choose from. Personally, I place a lot of emphasis on a candidate's thought process when hiring. Data science is first and foremost about systematic problem solving.
 
-**Is it this data analytics just a hype or how you see it in next 10-20 years?**
+**Is data analytics just hype? How you see it in next 10-20 years?**
 
 My expectation is that moving forward, all roles will entail some degree of data literacy.
 
