@@ -1,7 +1,18 @@
 ---
 title: "Speaker Spotlight: Dr. Vinod Ramachandran"
-date: 2020-11-18T11:48:14+08:00
+date: 2020-11-27T11:48:14+08:00
+description: |
+  Dr. Vinod Ramachandran, a mathematician by training, data scientist by trade, 
+  answers your burning questions on how to start your data science journeys. 
+slug: speaker-spotlight_dr-vinod-ramachandran
 draft: false
+ShowToc: true
+show_comments: true
+disqus_url: https://pydatakl.github.io/posts/speaker-spotlight_dr-vinod-ramachandran
+disqus_identifier: speaker-spotlight_dr-vinod-ramachandran
+disqus_title: "Speaker Spotlight: Dr. Vinod Ramachandran"
+images: 
+  - /img/ds-journeys.png
 tags: 
   - speaker-spotlight
   - data-science-journeys
@@ -18,7 +29,6 @@ could not make it into the webinar. Enjoy!
 
 *Dr. Vinod Ramachandran is a Risk Data Scientist at one of ASEAN’s largest universal banks, where he serves as technical lead for the development of advanced analytics tools for risk management. He describes himself as a mathematician by training, data scientist by trade.*
 
-Connect with Dr. Vinod on [LinkedIn](https://www.linkedin.com/in/rvinod85) or find him on Twitter ([@dasmodeler](https://twitter.com/dasmodeler)).
  
 
 ### Day-to-day
@@ -130,4 +140,8 @@ There will always be a demand for good talent. Expect the bar to move up as comp
 
 My expectation is that moving forward, all roles will entail some degree of data literacy.
 
+---
 
+*Connect with Dr. Vinod on [LinkedIn](https://www.linkedin.com/in/rvinod85). You can also find him on Twitter at [@dasmodeler](https://twitter.com/dasmodeler).*
+
+*If you missed our webinar, catch a replay on YouTube: https://www.youtube.com/watch?v=K5w1BkGBSVs&t=8s*
