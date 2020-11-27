@@ -2,6 +2,7 @@ baseURL: "https://pydatakl.github.io/"
 languageCode: "en-us"
 title: "kualalumpur.py"
 theme: "papermod"
+disqusShortname: pydatakl
 params:
     homeInfoParams:
         Title: 🇲🇾 PyData Kuala Lumpur
@@ -32,4 +33,3 @@ params:
           url: https://www.linkedin.com/company/pydatakl/
         # - name: discord
         #   url: ""
-    disqusShortname: pydatakl
