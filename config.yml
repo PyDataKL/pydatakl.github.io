@@ -32,3 +32,5 @@ params:
           url: https://www.linkedin.com/company/pydatakl/
         # - name: discord
         #   url: ""
+    css:
+      - css/custom.css
