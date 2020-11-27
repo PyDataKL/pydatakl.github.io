@@ -2,10 +2,11 @@ baseURL: "https://pydatakl.github.io/"
 languageCode: "en-us"
 title: "kualalumpur.py"
 theme: "papermod"
-disqusShortname: pydatakl
+
 params:
     showShareButtons: true
     comments: true
+    disqusShortname: pydatakl
     homeInfoParams:
         Title: 🇲🇾 PyData Kuala Lumpur
         Content: |
