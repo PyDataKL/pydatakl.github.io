@@ -8,8 +8,8 @@ tags:
 ---
 
 Following up from our webinar Data Science Journeys, we're putting together a 
-series of articles where we ask the panelists a series of questions that could
-not make it into the webinar. Enjoy! 
+series of articles where we ask the panelists questions from our community that 
+could not make it into the webinar. Enjoy! 
 
 
 ## The speaker 
