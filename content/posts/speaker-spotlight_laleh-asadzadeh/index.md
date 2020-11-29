@@ -16,7 +16,7 @@ tags:
   - data-science-journeys
 ---
 
-This is the second in our series of articles following our Data Science Journeys webinar, where we ask the panelists questions from our community that could not make it into the webinar. Enjoy! 
+This is the second in our series of articles following our Data Science Journeys webinar featuring Senior Lead Data Scientist, Laleh Asadzadeh. Enjoy! 
 
 ## The speaker 
 
@@ -73,7 +73,7 @@ It depends on your resume. If you had the chance to do relevant projects, even a
 
 **What are the do's and don'ts for beginners?**
 
-Instead of being a perfectionist, set up a feasible plan and follow that because becoming a data scientist is a long journey that needs patience and hard work with a reasonable reward. Don't wait unil you are perfect before looking for job opportunities or starting projects. Your plan needs to include both learning and practice steps. Don't be afraid of applying for jobs that match 80% of your resume. Get prepared for job interviews, study interview questions in depth, but don't get disappointed if you fail job interviews. Learn from them and build your knowledge. At the end of the day, you need ONE good job and it may come after many failures.  
+Instead of being a perfectionist, set up a feasible plan and follow that, because becoming a data scientist is a long journey that needs patience and hard work with a reasonable reward. Don't wait unil you are perfect before looking for job opportunities or starting projects. Your plan needs to include both learning and practice steps. Don't be afraid of applying for jobs that match 80% of your resume. Get prepared for job interviews, study interview questions in depth, but don't get disappointed if you fail job interviews. Learn from them and build your knowledge. At the end of the day, you need ONE good job and it may come after many failures.  
 
 **What will you recommend for those with zero knowledge for this topic to start their own reading/ first step etc.**
 
