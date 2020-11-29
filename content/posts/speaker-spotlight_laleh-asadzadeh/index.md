@@ -16,6 +16,8 @@ tags:
   - data-science-journeys
 ---
 
+This is the second in our series of articles following our Data Science Journeys webinar, where we ask the panelists questions from our community that could not make it into the webinar. Enjoy! 
+
 ## The speaker 
 
 {{<figure src="laleh.webp" width=200 alt="Laleh Asadzadeh">}}
