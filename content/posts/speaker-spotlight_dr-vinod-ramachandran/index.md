@@ -2,8 +2,7 @@
 title: "Speaker Spotlight: Dr. Vinod Ramachandran"
 date: 2020-11-27T11:48:14+08:00
 description: |
-  Dr. Vinod Ramachandran, a mathematician by training, data scientist by trade, 
-  answers your burning questions on how to start your data science journeys. 
+  Dr. Vinod Ramachandran, Risk Data Scientist, answers your burning questions on how to start your data science journeys. 
 slug: speaker-spotlight_dr-vinod-ramachandran
 draft: false
 ShowToc: true
