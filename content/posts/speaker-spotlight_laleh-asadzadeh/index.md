@@ -1,8 +1,7 @@
 ---
 title: "Speaker Spotlight: Laleh Asadzadeh"
 date: 2020-11-29T11:48:14+08:00
-description: |
-  Laleh Asadzadeh, Senior Data Scientist, answers your burning questions on how to start your data science journeys. 
+description: Laleh Asadzadeh, Senior Lead Data Scientist, answers your burning questions on how to start your data science journeys. 
 slug: speaker-spotlight_laleh-asadzadeh
 draft: false
 ShowToc: true
