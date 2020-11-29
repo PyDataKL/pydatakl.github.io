@@ -144,4 +144,4 @@ My expectation is that moving forward, all roles will entail some degree of data
 
 *Connect with Dr. Vinod on [LinkedIn](https://www.linkedin.com/in/rvinod85). You can also find him on Twitter at [@dasmodeler](https://twitter.com/dasmodeler).*
 
-*If you missed our webinar, catch a replay on YouTube: https://www.youtube.com/watch?v=K5w1BkGBSVs&t=8s*
+*If you missed our webinar, you may catch a replay on YouTube: https://www.youtube.com/watch?v=K5w1BkGBSVs&t=8s*
