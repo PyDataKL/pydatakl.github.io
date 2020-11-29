@@ -3,7 +3,10 @@ title: "Speaker Spotlight: Laleh Asadzadeh"
 date: 2020-11-29T11:48:14+08:00
 description: Laleh Asadzadeh, Senior Lead Data Scientist, answers your burning questions on how to start your data science journeys. 
 slug: speaker-spotlight_laleh-asadzadeh
-draft: true
+_build:
+  render: true
+  list: false
+  publishResources: true
 ShowToc: true
 show_comments: true
 disqus_url: https://pydatakl.github.io/posts/speaker-spotlight_laleh-asadzadeh
