@@ -19,7 +19,7 @@ tags:
   - data-science-journeys
 ---
 
-This is the second in our series of articles following our Data Science Journeys webinar featuring Senior Lead Data Scientist, Laleh Asadzadeh. Enjoy! 
+This is the second in our series of articles featuring speakers from our Data Science Journeys webinar. This article features Senior Lead Data Scientist, Laleh Asadzadeh. Enjoy! 
 
 ## The speaker 
 
@@ -79,20 +79,21 @@ It depends on your resume. If you had the chance to do relevant projects, even a
 
 **What are the do's and don'ts for beginners?**
 
-Instead of being a perfectionist, set up a feasible plan and follow that, because becoming a data scientist is a long journey that needs patience and hard work with a reasonable reward. Don't wait unil you are perfect before looking for job opportunities or starting projects. Your plan needs to include both learning and practice steps. Don't be afraid of applying for jobs that match 80% of your resume. Get prepared for job interviews, study interview questions in depth, but don't get disappointed if you fail job interviews. Learn from them and build your knowledge. At the end of the day, you need ONE good job and it may come after many failures.  
+Instead of being a perfectionist, set up a feasible plan and follow that, because becoming a data scientist is a long journey that needs patience and hard work. Don't think you need to be perfect before looking for job opportunities or starting projects. Your plan needs to include both learning and practice steps. So, after learning for a while, do a small project and publish that on your Kaggle or GitHub profile.  Don’t be afraid of applying for jobs that match 80% of your resume. Get prepared for job interviews, study interview questions in depth, but don’t get disappointed if you fail job interviews. Learn from them and build your knowledge. At the end of the day, you need ONE good job and it may come after many failures.
 
 **What will you recommend for those with zero knowledge for this topic to start their own reading/ first step etc.**
 
-First, read about various job titles and positions in data science. Choose the one that is closer to your interest and background. Understand key skills for your desired role, plan to master them and do small projects while learning. 
+First, read about various job titles and positions in data science. Choose the one that is closer to your interest and background. Understand key skills for your desired role, plan to master them and do small projects while learning.
 
-When you feel you are ready enough (not necessary perfect) apply for jobs. Look for a good manager and good team in a good company. For your first job, salary does not matter at all. 
+When you feel you are ready enough (not necessarily perfect) apply for jobs. Look for a good manager and good team in a good company. For your first job, salary does not matter at all.
 
-Some skills are a MUST: 
-- SQL for database;  
-- Python, R, Excel, Tableau, Power BI; **and**
-- basic statistics (mean, median, mode, variance, outliers, distributions) for data analysis. 
+Some skills are a MUST:
 
-On top of this skillset, based on your desired role as data scientist/data engineer/data analyst/data visualizer, you need other advanced knowledge/tools in machine learning, statistics, database, programming languages.
+- SQL for database;
+- One of: Python, R, Excel, Tableau, Power BI; and
+- basic statistics (mean, median, mode, variance, outliers, distributions) for data analysis.
+
+On top of this skillset, based on your desired role as data scientist/data engineer/data analyst/data visualizer, you need other advanced knowledge/tools in machine learning, statistics, database, programming languages, or visualization.
 
 **What do you think the most important skill/value that we need to prepare ourselves with before venturing into this field?**
 
@@ -100,16 +101,17 @@ Problem solving.
 
 **I am a fresh graduate looking for an opportunity. How should I stand out from other candidates? Should I pay more attention in resume, networking, or other aspects?**
 
-- Read the job description and make sure the first page of your resume clearly shows your relevant knowledge/experience. 
-- As a student, you may have done assignments/projects relevant to the job description. Don't be shy to mention these in your resume. For these projects, clearly mention the problem,  your solution, and the outcome. It's even better if it was a team project, but make sure you mention that in your resume and write about your role and responsibilities. 
-- Never lie on your resume, unless there is ONE key skill you have working knowledge of and you can learn it quickly, in case you get the job. 
-- About your skillset, beside mentioning each skill, mention your knowledge level as well, for example: 
-  - Advanced: Excel, Tableau; 
-  - Intermediate: Python, SQL 
+
+- Read the job description and make sure the first page of your resume clearly shows your relevant knowledge/experience.
+- As a student, you may have done assignments/projects relevant to the job description. Don’t be shy to mention these in your resume. For these projects, clearly mention the problem, your solution, and the outcome. It’s even better if it has been a team project. In that case, make sure you mention team work in your resume and highlight your role and responsibilities.
+- Never lie on your resume, unless there is ONE key skill you have working knowledge of and you can learn it quickly, in case you get the job. Also, you need to make sure you can answer interview questions.
+- About your skillset, beside mentioning each skill, mention your knowledge level as well, for example:
+    - Advanced: Excel, Tableau;
+    - Intermediate: Python, SQL
 
 **What programming language would you recommend to learn and how do I start?**
 
-SQL is a must for fetching data from database and doing some basic data analysis. Between R and Python, you can choose based on your desired role. Some people prefer Python for development, some prefer R for research; however, personally I cannot say which one should be used where. To start, you can watch YouTube videos and take some online courses. 
+SQL is a must for fetching data from database and doing some basic data analysis. Between R and Python, you can choose based on your desired role. Some people prefer Python for development, some prefer R for research; however, personally I cannot say which one you should learn. Currently, I use Python at work but I did my masters' thesis in R and I found both of them useful with specific pros and cons. To start, you can watch YouTube videos and take some online courses.
 
 **What to pay attention to when reading data analyst or data scientist job descriptions?**
 
