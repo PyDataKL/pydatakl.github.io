@@ -4,42 +4,44 @@ title: "kualalumpur.py"
 theme: "papermod"
 disqusShortname: pydatakl
 params:
-    showShareButtons: true
-    ShowReadingTime: true
-    comments: true
-    homeInfoParams:
-        Title: 🇲🇾 PyData Kuala Lumpur
-        Content: |
-          PyData is an educational program of NumFOCUS, a 501(c)3 
-          non-profit organization in the United States. PyData 
-          provides a forum for the international community of users
-          and developers of data analysis tools to share ideas
-          and learn from each other. The global PyData network 
-          promotes discussion of best practices, new approaches, 
-          and emerging technologies for data management, processing, 
-          analytics, and visualization. PyData communities approach 
-          data science using many languages, including (but not 
-          limited to) Python, Julia, and R.
+  description: The PyData Kuala Lumpur blog
+  showShareButtons: true
+  ShowReadingTime: true
+  comments: true
+  homeInfoParams:
+      Title: 🇲🇾 PyData Kuala Lumpur
+      Content: |
+        PyData is an educational program of NumFOCUS, a 501(c)3 
+        non-profit organization in the United States. PyData 
+        provides a forum for the international community of users
+        and developers of data analysis tools to share ideas
+        and learn from each other. The global PyData network 
+        promotes discussion of best practices, new approaches, 
+        and emerging technologies for data management, processing, 
+        analytics, and visualization. PyData communities approach 
+        data science using many languages, including (but not 
+        limited to) Python, Julia, and R.
 
-    socialIcons: # optional
-        - name: twitter
-          url: https://twitter.com/pydatakl
-        - name: github
-          url: https://github.com/PyDataKL
-        - name: facebook
-          url: https://www.facebook.com/PyDataKL
-        - name: youtube
-          url: https://www.youtube.com/channel/UC1UVRx7Ngc5QmFSu23s63Vg
-        - name: meetup
-          url: https://www.meetup.com/pydatakl/
-        - name: linkedin
-          url: https://www.linkedin.com/company/pydatakl/
-        - name: discord
-          url: "https://discord.gg/mB4JfNt"
-    assets:
-      favicon: /assets/favicon.ico
-      favicon16x16: /assets/favicon-16x16.png
-      favicon32x32: /assets/favicon-32x32.png
-      apple_touch_icon: /assets/apple-icon.png
-    css:
-      - css/custom.css
+  socialIcons: # optional
+      - name: discord
+        url: "https://discord.gg/mB4JfNt"
+      - name: twitter
+        url: https://twitter.com/pydatakl
+      - name: github
+        url: https://github.com/PyDataKL
+      - name: facebook
+        url: https://www.facebook.com/PyDataKL
+      - name: youtube
+        url: https://www.youtube.com/channel/UC1UVRx7Ngc5QmFSu23s63Vg
+      - name: meetup
+        url: https://www.meetup.com/pydatakl/
+      - name: linkedin
+        url: https://www.linkedin.com/company/pydatakl/
+
+  assets:
+    favicon: /assets/favicon.ico
+    favicon16x16: /assets/favicon-16x16.png
+    favicon32x32: /assets/favicon-32x32.png
+    apple_touch_icon: /assets/apple-icon.png
+  css:
+    - css/custom.css
