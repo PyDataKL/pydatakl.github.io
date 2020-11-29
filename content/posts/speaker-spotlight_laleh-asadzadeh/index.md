@@ -4,7 +4,7 @@ date: 2020-11-29T11:48:14+08:00
 description: Laleh Asadzadeh, Senior Lead Data Scientist, answers your burning questions on how to start your data science journeys. 
 slug: speaker-spotlight_laleh-asadzadeh
 _build:
-  render: true
+  render: always
   list: false
   publishResources: true
 ShowToc: true
@@ -71,7 +71,7 @@ Excel, SAS, Power BI, Tableau, Python, R. Some of them are not useful if you nee
 
 **When contemplating a potential career switch to data science, which of the two is more important: a formal qualification or practical experience such as side projects?**
 
-Both of them are important, but practical experience is important, especially if it reflects how self-driven & team-oriented you are. 
+Both of them are important, but practical experience has special value if it reflects how self-driven & team-oriented you are.
 
 **Do I need a data science certificate to work in the field?**
 
