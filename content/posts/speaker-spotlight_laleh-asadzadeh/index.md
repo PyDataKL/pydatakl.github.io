@@ -28,7 +28,7 @@ This is the second in our series of articles following our Data Science Journeys
 
 **Q: What makes you excited to come to work?**
 
-A: Helping trainees to learn about data science and to build brighter future for themselves. And their country is wonderful!
+A: Helping trainees to learn about data science and to build a brighter future for themselves, and their country is wonderful!
 
 **What's your daily routine like?**
 
