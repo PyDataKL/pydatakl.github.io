@@ -25,7 +25,7 @@ could not make it into the webinar. Enjoy!
 
 ## The speaker 
 
-{{<figure src="vinod.webp#floatleft" width=200 alt="Dr. Vinod Ramachandran">}}
+{{<figure src="vinod.webp" width=200 alt="Dr. Vinod Ramachandran">}}
 
 *Dr. Vinod Ramachandran is a Risk Data Scientist at one of ASEAN’s largest universal banks, where he serves as technical lead for the development of advanced analytics tools for risk management. He describes himself as a mathematician by training, data scientist by trade.*
 
