@@ -46,14 +46,17 @@ We research market demand and new data science models/concepts/tools.
 
 **How do you keep yourself up-to-date with all the new innovations in the Data Science industry while working full time?**
 
-I usually study:
+Most of the time our work requires us to stay up-to-date, because we need to make sure our solutions are the best possible solutions considering various constraints. I may not have time to spend doing projects outside working hours, but reading others' solutions is interesting. 
+
+I usually check:
 
 - Machine Learning Mastery: https://machinelearningmastery.com,
-- Kaggle: https://www.kaggle.com, 
-- KDNuggets: https://www.kdnuggets.com, and 
-- Towards Data Science: https://towardsdatascience.com. 
+- Kaggle: https://www.kaggle.com,
+- KDNuggets: https://www.kdnuggets.com, 
+- Towards Data Science: https://towardsdatascience.com, 
+- Stanford online course: https://online.stanford.edu/
 
-I may not have time to spend doing those projects, but reading about others' solutions is interesting. 
+When I was a fresh graduate, YouTube and Coursera were my close friends.
 
 Most ot the time our work requires us to stay up-to-date, because we need to make sure our solutions are the best possible solutions considering various constraints. 
 
